@@ -112,7 +112,7 @@ export default function App() {
             <div className="hero-showcase-card">
               <div className="hero-img-box">
                 <img
-                  src="/assets/taxi-break-orly.jpg"
+                  src="./assets/taxi-break-orly.jpg"
                   alt="Taxi Parisien Toyota RAV4 Hybride Hocine Ferhat à l'Aéroport Paris-Orly"
                   className="hero-main-img"
                 />

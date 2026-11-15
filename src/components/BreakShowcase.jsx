@@ -63,7 +63,7 @@ export default function BreakShowcase() {
           <div className="break-visual-card">
             <div className="break-image-wrapper">
               <img
-                src="/assets/taxi-break-orly.jpg"
+                src="./assets/taxi-break-orly.jpg"
                 alt="Taxi Parisien Toyota RAV4 Hybride Hocine Ferhat devant l'Aéroport Paris-Orly"
                 className="break-image"
               />
